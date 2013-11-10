@@ -1,0 +1,4 @@
+GitCore
+=======
+
+Core java projects
